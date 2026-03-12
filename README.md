@@ -1,7 +1,7 @@
 # LithoLED
 A simple way to display your 3D printed Lithographs with LED backlighting.
 
- 
+[Parts Assembly Video](https://www.youtube.com/watch?v=f8gd6NIMTC4)
 
 ## What It Is
 A backlit display case that uses LED light strips to shine light through your lithograph prints.  
