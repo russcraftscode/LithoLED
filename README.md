@@ -7,6 +7,7 @@ A simple way to display your 3D printed Lithographs with LED backlighting.
 A backlit display case that uses LED light strips to shine light through your lithograph prints.  
 The prints must be 100mm x 150mm x 2mm, but any number of prints can be swapped out.
 
+![img_5.png](img_5.png)
 
 ## What Can It Do?
 Out of the box it can:
